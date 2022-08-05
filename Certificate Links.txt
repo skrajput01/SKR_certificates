@@ -1,0 +1,65 @@
+1. SoloLearn - Python 3 Tutorial [2018]:
+https://www.sololearn.com/Certificate/1073-10105577/jpg/
+
+2. DataCamp - Into to Python [2018]:
+https://www.datacamp.com/statement-of-accomplishment/course/ab6006c329870eb05dadae9ce0000e7f67bfbda7
+
+3. SoloLearn - HTML Fundamentals [2019]:
+https://www.sololearn.com/Certificate/1014-10105577/jpg/
+
+4. SoloLearn - CSS Fundamentals [2019]:
+https://www.sololearn.com/Certificate/1023-10105577/jpg/
+
+5. MathWorks - MATLAB Onramp [2021]:
+https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b0091eb6-62e6-411d-a9a4-77b22e1dc97e
+
+6. Skillshop - Google Analytics for Begginers [2021]:
+https://analytics.google.com/analytics/academy/certificate/mm_rzDvbQ32WhtD5jFg4bA 
+
+7. Skillshop - Advanced Google Analytics [2021]:
+https://analytics.google.com/analytics/academy/certificate/NEar4aTZSYKdC6-JFqt1Sw
+
+8. Skillshop - Google Analytics Individual Qualification [2021]:
+https://skillshop.exceedlms.com/student/award/C8tQL6hgnfvDesQp9giScymg
+
+9. SoloLearn - Python for Data Science [2021]:
+https://www.sololearn.com/certificates/course/en/10105577/1161/landscape/png
+
+10. DataCamp - Introduction to SQL [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/f774f40f9137f9e96695017e1f712d079d125de8
+
+11. SoloLearn - Machine Learning [2022]:
+https://www.sololearn.com/certificates/course/en/10105577/1094/landscape/png
+
+12. KMPG AU (Forage) - Data Analytics Consulting Virtual Internship [2022]:
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_5pwMpamDhL5jvQeip_1657213301248_completion_certificate.pdf 
+
+13. LinkedIn Learning - Tableau for Data Science [2022]:
+https://www.linkedin.com/learning/certificates/65f8bf8a414a945c3179bc171aae43df542ff5e4b69de147adab943e63287940?trk=share_certificate 
+
+14. DataCamp - Introduction to Data Science in Python [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/d29b33c670935bb265fcf34dd6b5283035d0f81f?raw=1
+
+15. DataCamp - Intermediate Python [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/eb81ace968dcd056f9abfcef8426a7a2a0d603bb?raw=1
+
+16. DataCamp - Data Manipulation with Pandas [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/327a95bb8063f405bbb8c5f590520d976a015b2c?raw=1
+
+17. DataCamp - Joining Data with Pandas [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/6056e40e96fca5c3e7061e4ca304072ea11cb4a7?raw=1 
+
+18. DataCamp - Introduction to Data Visualization with Seaborn [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/b10350a658ea92a2bd3de2b84986a63626459e75 
+
+19. DataCamp - Exploratory Data Analysis in Python [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/2852a07a6ce8efb94dd8067ec4acf1d0e4a1274d?raw=1
+
+20. DataCamp - Introduction to Statistics in Python [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/50d930b609777172524505b0b7433027626b3b05?raw=1 
+
+21. DataCamp - Hypothesis Testing in Python [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/026e07f62fec526b46449de91e2d9e76005d6986?raw=1
+
+22. DataCamp - Data Analyst with Python Track [2022]:
+https://www.datacamp.com/statement-of-accomplishment/track/057261714e6106955b38754d820d6d1125b02b2d?raw=1
