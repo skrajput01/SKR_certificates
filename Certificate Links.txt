@@ -63,3 +63,6 @@ https://www.datacamp.com/statement-of-accomplishment/course/026e07f62fec526b4644
 
 22. DataCamp - Data Analyst with Python Track [2022]:
 https://www.datacamp.com/statement-of-accomplishment/track/057261714e6106955b38754d820d6d1125b02b2d?raw=1
+
+23. SoloLearn - R [2022]:
+https://www.sololearn.com/certificates/course/en/10105577/1147/landscape/png
