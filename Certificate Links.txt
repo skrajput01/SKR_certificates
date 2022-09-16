@@ -66,3 +66,6 @@ https://www.datacamp.com/statement-of-accomplishment/track/057261714e6106955b387
 
 23. SoloLearn - R [2022]:
 https://www.sololearn.com/certificates/course/en/10105577/1147/landscape/png
+
+24. Cisco Networking Academy - PCAP: Programming Essentials in Python [2022]:
+https://github.com/skrajput01/SKR_certificates/blob/main/SKR%20-%20PCAP%20-%20Programming%20Essentials%20%5BCisco%5D.pdf 
