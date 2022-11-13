@@ -67,5 +67,17 @@ https://www.datacamp.com/statement-of-accomplishment/track/057261714e6106955b387
 23. SoloLearn - R [2022]:
 https://www.sololearn.com/certificates/course/en/10105577/1147/landscape/png
 
-24. Cisco Networking Academy - PCAP: Programming Essentials in Python [2022]:
-https://github.com/skrajput01/SKR_certificates/blob/main/SKR%20-%20PCAP%20-%20Programming%20Essentials%20%5BCisco%5D.pdf 
+24. Cisco Networking Academy - PCAP: Programming Essentials in Python [2022]
+https://github.com/skrajput01/SKR_certificates/blob/main/SKR%20-%20PCAP%20-%20Programming%20Essentials%20%5BCisco%5D.pdf
+
+25. DataCamp - Introduction to Statistics [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/19c05d323eaeadfe630c0496ea9c7f770f4de67e
+
+26. DataCamp - Intermediate SQL [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/6162e5ef2dd02ec677394972b78d1a5565377011
+
+27. DataCamp - Intermediate R [2022]:
+https://www.datacamp.com/statement-of-accomplishment/course/792bc50cbd3edbe491e88c676e410a544f48bd5d
+
+28. DataCamp - Analyzing Social Media Data in Python [2022]: 
+https://www.datacamp.com/statement-of-accomplishment/course/831b2b24afc3421764f409e9fdc4abd18c92c592
